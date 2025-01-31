@@ -1,5 +1,5 @@
 
-This is a simple script which replaces the whitespace character (spacebar) with [U+2800](https://www.compart.com/en/unicode/U+2800), enabling the insertion of ASCII art in unusual places.
+This is a simple script which replaces the whitespace character (spacebar) with [U+2800](https://www.compart.com/en/unicode/U+2800), enabling the insertion of [ASCII art](https://en.wikipedia.org/wiki/ASCII_art) in unusual places.
 
 U+2800 is a more exciting version of the whitespace character, bypassing the filtering done by most websites. 
 
