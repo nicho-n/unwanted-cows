@@ -1,5 +1,5 @@
 
-A simple script which replaces the whitespace character (spacebar) with [U+2800](https://www.compart.com/en/unicode/U+2800).
+This is a simple script which replaces the whitespace character (spacebar) with [U+2800](https://www.compart.com/en/unicode/U+2800).
 
 U+2800 is a more exciting version of the whitespace character, bypassing the filtering done by most websites. 
 
