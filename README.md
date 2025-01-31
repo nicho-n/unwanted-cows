@@ -6,7 +6,7 @@ U+2800 is a far more exciting version of The Space Character, bypassing the filt
 
 You can insert art in a textbox that's just expecting normal text this way.  
 
-Below, a cow is my instagram decription.
+Below, a crudely-drawn cow is my instagram decription.
 
 ![An ASCII art cow is used as a profile description on instagram.com](sample.png "Unwanted Cows")
 
