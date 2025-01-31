@@ -4,7 +4,9 @@ A simple script which replaces the space character with [U+2800](https://www.com
 
 U+2800 is a far more exciting version of The Space, allowing us to input nothing when something is required.
 
-In simpler terms, this allows you to bypass filtering done by most websites. You can insert art in a textbox that's just expecting normal text this way.
+In simpler terms, this allows you to bypass filtering done by most websites. You can insert art in a textbox that's just expecting normal text this way.  
+
+Below, a cow is my instagram decription.
 
 ![An ASCII art cow is used as a profile description on instagram.com](sample.png "Unwanted Cows")
 
