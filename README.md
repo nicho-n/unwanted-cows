@@ -9,7 +9,7 @@ A non-technical way of describing the effect is with [a classic Buddhist metapho
 
 - "If I am holding a cup of water and I ask you, “Is this cup empty?” you will say, “No, it is full of water.” But if I pour out the water and ask you again, you may say, “Yes, it is empty.” But empty of what? Empty means empty of something. The cup cannot be empty of nothing. “Empty” doesn’t mean anything unless you know “empty of what?” My cup is empty of water, but it is not empty of air."
 
-In other words, without replacing the leading spaces with U+2800 in the ASCII Art, the cows wont display correctly on the websites. Because the whitespace is comprised of air and not water!
+In other words, without replacing the leading spaces with U+2800 in the ASCII Art, the cows wont display correctly - because the whitespace is comprised of air and not water!
 
 <img src="sample2.png" style="width:400px"></img>
 
