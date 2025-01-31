@@ -11,7 +11,7 @@ Below, a crudely-drawn cow is my instagram decription.
 
 ![An ASCII art cow is used as a profile description on instagram.com](sample.png "Unwanted Cows")
 
-Without the empty-but-full characters, everything will stick to the left-side of the screen:
+Without regular spaces, the leading ones get stripped out, making everything will stick to the left-side of the screen. You cannot draw "legs" without this special character.
 
 ![Without the hack, the ASCII art cow is a mess. It's limbs are unable to float in the middle of the textbox](sample2.png "Unwanted Cows, without the script applied")
 
