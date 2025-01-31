@@ -1,5 +1,5 @@
 
-This is a simple script which replaces the whitespace character ("spacebar") with [U+2800](https://www.compart.com/en/unicode/U+2800), enabling the insertion of [ASCII art](https://en.wikipedia.org/wiki/ASCII_art) in unusual places, such as textboxes on LinkedIn, Facebook, and Instagram. A crudely drawm cow is shown below.
+This is a simple script which replaces the whitespace character ("spacebar") with [U+2800](https://www.compart.com/en/unicode/U+2800), enabling the insertion of [ASCII art](https://en.wikipedia.org/wiki/ASCII_art) in unusual places, such as textboxes on LinkedIn, Facebook, and Instagram. A crudely drawm cow is shown below:
 
 <img src="sample.png" style="width:400px"></img>
 
