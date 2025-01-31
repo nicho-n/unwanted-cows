@@ -1,9 +1,9 @@
 
-This is a simple script which replaces the whitespace character (spacebar) with [U+2800](https://www.compart.com/en/unicode/U+2800).
-
-You can insert ASCII art in a textbox that's just expecting normal text this way.  
+This is a simple script which replaces the whitespace character (spacebar) with [U+2800](https://www.compart.com/en/unicode/U+2800), allowing cows in unusual places.
 
 U+2800 is a more exciting version of the whitespace character, bypassing the filtering done by most websites. 
+
+You can insert ASCII art in a textbox that's just expecting normal text this way.  
 
 [Form is emptiness! Emptiness is form!](https://www.lionsroar.com/heart-sutra-fullness-emptiness/?fbclid=PAZXh0bgNhZW0CMTEAAaY2u3C6dgAIRaX6s6XqgIbdcel4NCBbCEi8rUCKP1lojyvXs4MXPmXh9-o_aem_p3-7qujV6kJvEgaTiBX0Qg)
 
