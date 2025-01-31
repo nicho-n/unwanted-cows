@@ -3,7 +3,7 @@ This is a simple script which replaces the whitespace character ("spacebar") wit
 
 <img src="sample.png" style="width:400px"></img>
 
-[U+2800](https://www.compart.com/en/unicode/U+2800) is a more exciting version of the whitespace character ("spacebar"), since it bypasses the filtering done by most websites. 
+[U+2800](https://www.compart.com/en/unicode/U+2800) is a more exciting version of the whitespace character ("spacebar"), since it bypasses the filtering done by most websites. It's also known as Braille Pattern Blank.
 
 A non-technical way of describing the effect is with [a classic Buddhist metaphor from Thich Naht Hahn](https://www.lionsroar.com/heart-sutra-fullness-emptiness/?fbclid=PAZXh0bgNhZW0CMTEAAaY2u3C6dgAIRaX6s6XqgIbdcel4NCBbCEi8rUCKP1lojyvXs4MXPmXh9-o_aem_p3-7qujV6kJvEgaTiBX0Qg):
 
