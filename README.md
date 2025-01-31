@@ -9,9 +9,9 @@ A non-technical way of describing the effect is with [a classic Buddhist metapho
 
 Below, a crudely-drawn cow is my instagram decription.
 
-<img src="sample.png" style="width:250px"></img>
+<img src="sample.png" style="width:400px"></img>
 
 Without inserting U+2800 into the ASCII Art, my cows wont work on these websites. Because the whitespace is comprised of air and not water!
-<img src="sample2.png" style="width:250px"></img>
+<img src="sample2.png" style="width:400px"></img>
 
 For ascii art, use [cowsay](https://cowsay-svelte.vercel.app/).
