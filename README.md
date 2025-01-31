@@ -1,7 +1,7 @@
 
 A simple script which replaces the whitespace character with [U+2800](https://www.compart.com/en/unicode/U+2800).
 
-U+2800 is a far more exciting version of the whitespace character, bypassing the filtering done by most websites. 
+U+2800 is a more exciting version of the whitespace character ("⠀"), bypassing the filtering done by most websites. 
 
 You can insert art in a textbox that's just expecting normal text this way.  
 
@@ -13,3 +13,31 @@ Below, a crudely-drawn cow is my instagram decription.
 
 For ascii art, use [cowsay](https://cowsay-svelte.vercel.app/)
 
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀
+⠀⠀
+⠀
+⠀
+⠀
+⠀
+⠀
+⠀
+⠀
+⠀
+⠀
+
+⠀
+⠀
+⠀
+⠀
+⠀
+⠀
+⠀
+⠀
+
+⠀
+⠀
+⠀
+⠀
+⠀
+⠀
