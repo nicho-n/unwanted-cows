@@ -12,32 +12,3 @@ Below, a crudely-drawn cow is my instagram decription.
 ![An ASCII art cow is used as a profile description on instagram.com](sample.png "Unwanted Cows")
 
 For ascii art, use [cowsay](https://cowsay-svelte.vercel.app/)
-
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀
-⠀⠀
-⠀
-⠀
-⠀
-⠀
-⠀
-⠀
-⠀
-⠀
-⠀
-
-⠀
-⠀
-⠀
-⠀
-⠀
-⠀
-⠀
-⠀
-
-⠀
-⠀
-⠀
-⠀
-⠀
-⠀
