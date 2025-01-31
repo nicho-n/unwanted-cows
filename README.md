@@ -1,3 +1,5 @@
+[Form is emptiness! Emptiness is form!](https://www.lionsroar.com/heart-sutra-fullness-emptiness/?fbclid=PAZXh0bgNhZW0CMTEAAaY2u3C6dgAIRaX6s6XqgIbdcel4NCBbCEi8rUCKP1lojyvXs4MXPmXh9-o_aem_p3-7qujV6kJvEgaTiBX0Qg)
+
 Simple demonstration of a unicode hack to insert ASCII art in unusual places.
 
 We replace the space character with [U+2800](https://www.compart.com/en/unicode/U+2800).
@@ -10,4 +12,3 @@ In simpler terms, this allows you to bypass filtering done by most websites.
 
 For ascii art, use [cowsay](https://cowsay-svelte.vercel.app/)
 
-[Form is emptiness! Emptiness is form!](https://www.lionsroar.com/heart-sutra-fullness-emptiness/?fbclid=PAZXh0bgNhZW0CMTEAAaY2u3C6dgAIRaX6s6XqgIbdcel4NCBbCEi8rUCKP1lojyvXs4MXPmXh9-o_aem_p3-7qujV6kJvEgaTiBX0Qg)
