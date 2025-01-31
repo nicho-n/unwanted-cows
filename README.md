@@ -2,7 +2,7 @@
 
 A simple script which replaces the space character with [U+2800](https://www.compart.com/en/unicode/U+2800).
 
-U+2800 is a far more exciting version of The Space Character, bypassing the filtering done by most websites. 
+[U+2800](https://www.compart.com/en/unicode/U+2800) is a far more exciting version of the whitespace character, bypassing the filtering done by most websites. 
 
 You can insert art in a textbox that's just expecting normal text this way.  
 
